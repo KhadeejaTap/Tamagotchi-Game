@@ -2,7 +2,8 @@ A Tamagotchi-style virtual pet game where users can feed, play with, and care fo
 
 Built using object-oriented programming principles like classes, inheritance, and polymorphism.
 
-Features
+Features:
+
 Choose and interact with a custom elemental spirit pet
 
 Track pet stats like hunger, sleep, and happiness
