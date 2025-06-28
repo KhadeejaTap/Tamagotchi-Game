@@ -1,4 +1,4 @@
-A simple web-based Tamagotchi-style virtual pet game where users can feed, play with, and care for their digital pet. 
+A Tamagotchi-style virtual pet game where users can feed, play with, and care for their digital pet. 
 
 Built using object-oriented programming principles like classes, inheritance, and polymorphism.
 
