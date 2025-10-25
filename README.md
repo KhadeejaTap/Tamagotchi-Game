@@ -21,6 +21,9 @@ Inheritance and polymorphism
 File handling
 
 ASCII-based visual output
+# Demo Video
+
+I talk about the logic of my game and demo playing it here, skip to 2:45 for the demo: https://go.screenpal.com/watch/cThe32nQ0dW
 
 # How to Run
 
